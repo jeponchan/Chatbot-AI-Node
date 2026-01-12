@@ -1,0 +1,8 @@
+chatbot-ai-node/
+├─ app.js
+├─ package.json
+├─ .env
+├─ /views
+│  └─ chat.ejs
+└─ /public
+   └─ styles.css
